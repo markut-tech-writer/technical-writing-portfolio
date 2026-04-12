@@ -1,3 +1,3 @@
-# technical-writing-portfolio
+# Technical-writing-portfolio
 ## Projects
 - User API Documentation
