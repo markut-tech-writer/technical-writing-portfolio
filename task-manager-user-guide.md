@@ -1,6 +1,4 @@
-# 📄 2. `task-manager-user-guide.md`
 
-```md
 # Task Manager User Guide
 
 ## Overview
