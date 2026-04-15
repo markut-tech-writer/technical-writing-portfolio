@@ -1,5 +1,3 @@
----
-
 # 📄 2. `task-manager-user-guide.md`
 
 ```md
