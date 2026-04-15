@@ -38,3 +38,6 @@ Use this endpoint to display task details in the application interface.
 GET /api/v1/tasks/42 HTTP/1.1
 Host: api.taskmanager.local
 Authorization: Bearer <token>
+
+Successful Response
+Status: 200 OK
