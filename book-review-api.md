@@ -6,6 +6,8 @@ This document describes the API for a simple book review service.
 
 The API allows clients to retrieve information about books and create reviews for them.
 
+This API is used in the Book Review application described in the User Guide.
+
 ---
 
 ## Get Book by ID
