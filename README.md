@@ -1,63 +1,54 @@
-> Documentation examples for a Task Manager application
+# Technical Writing Portfolio
 
-# Task Manager Documentation Portfolio
+> Documentation examples for a Book Review Service API
+
+---
 
 ## Overview
 
-This repository contains examples of technical documentation for a Task Manager application.
+This repository contains technical documentation for a sample Book Review Service.
 
-The goal of this project is to demonstrate my ability to create clear, structured, and user-friendly documentation for both end users and developers.
+The goal of this project is to demonstrate my ability to create clear, structured, and user-friendly API documentation.
 
 ---
 
 ## Project Description
 
-Task Manager is a simple application that allows users to create, manage, and track tasks.
+The Book Review Service is a simple application that allows users to:
 
-This portfolio includes two types of documentation:
+- view books  
+- filter books by different parameters  
+- create reviews for books  
 
-- User documentation — for end users  
-- API documentation — for developers  
+This project focuses on documenting how clients interact with the system via REST API.
 
 ---
 
 ## Documentation
 
-### 1. Task Manager User Guide
+### Book Review Service API
 
-A step-by-step guide for end users describing how to work with the application.
-
-Includes:
-- creating, editing, and deleting tasks  
-- managing task status  
-- troubleshooting common issues  
-
-File: `task-manager-user-guide.md`
-
----
-
-### 2. Task Manager API
-
-REST API documentation for working with tasks.
+REST API documentation for working with books and reviews.
 
 Includes:
+
 - endpoint descriptions  
 - request and response examples  
+- path and query parameters  
+- request body structure  
 - error handling  
-- authentication basics  
 
-File: `task-manager-api.md`
+File: `book-review-api.md`
 
 ---
 
 ## Skills Demonstrated
 
-- Technical documentation  
 - API documentation (REST)  
-- User documentation  
 - Markdown  
 - Structuring technical information  
 - Understanding of client-server interaction  
+- Writing for developer audience  
 
 ---
 
@@ -73,21 +64,22 @@ File: `task-manager-api.md`
 This project was created as part of my transition into IT technical writing.
 
 It demonstrates my ability to:
-- work with API concepts  
-- communicate with developers  
-- present technical information clearly  
+
+- understand API logic  
+- describe endpoints clearly  
+- provide useful examples for developers  
 
 ---
 
 ## Future Improvements
 
-- Add more API endpoints  
+- Add more endpoints (update and delete operations)  
 - Expand error handling scenarios  
-- Improve documentation structure  
+- Improve response field descriptions  
 - Add diagrams for better visualization  
 
 ---
 
 ## Author
 
-Technical writer with experience in engineering documentation, currently transitioning into IT.
+Technical writer with experience in engineering documentation, currently transitioning into IT and focusing on API and product documentation.
