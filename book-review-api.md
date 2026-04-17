@@ -40,10 +40,12 @@ Host: api.bookreviews.local
 Authorization: Bearer <token>
 ```
 
+
 ### Successful Response
 
-Status: 200 OK
+**Status:** `200 OK`
 
+```json
 {
   "id": 15,
   "title": "Clean Code",
@@ -52,13 +54,3 @@ Status: 200 OK
   "rating": 4.8,
   "published_year": 2008
 }
- 
-### Error Responses
-
-401 Unauthorized
-
-{
-  "error": "unauthorized",
-  "message": "Authentication is required"
-}
-
