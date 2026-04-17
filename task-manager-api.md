@@ -16,7 +16,15 @@ The API allows clients to create tasks and retrieve task information.
 
 ### Description
 
-Returns detailed information about a task by its unique identifier.
+Returns a list of tasks available to the user.
+
+This endpoint can be used to display tasks in the dashboard or filter them by status.
+
+### Query Parameters
+
+| Parameter | Type   | Description              |
+|----------|--------|--------------------------|
+| status   | string | Filter tasks by status   |
 
 ### Path Parameters
 
@@ -36,3 +44,8 @@ Returns detailed information about a task by its unique identifier.
 GET /api/v1/tasks/42 HTTP/1.1
 Host: api.taskmanager.local
 Authorization: Bearer <token>
+
+### Notes
+
+- All responses are returned in JSON format  
+- Authentication is required
