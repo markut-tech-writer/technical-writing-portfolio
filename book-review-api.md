@@ -37,8 +37,9 @@ This endpoint can be used to display book details in the application interface.
 ```http
 GET /api/v1/books/15 HTTP/1.1
 Host: api.bookreviews.local
-Authorization: Bearer <token>```
-### Successful Response
+Authorization: Bearer <token>
+
+Successful Response
 
 Status: 200 OK
 
@@ -50,7 +51,8 @@ Status: 200 OK
   "rating": 4.8,
   "published_year": 2008
 }
- ### Error Responses
+ 
+Error Responses
 
 401 Unauthorized
 
