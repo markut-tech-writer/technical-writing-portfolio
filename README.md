@@ -1,44 +1,53 @@
 # Technical Writing Portfolio
 
-> Documentation examples for a Book Review Service API
-
----
-
 ## Overview
 
-This repository contains technical documentation for a sample Book Review Service.
+This repository contains examples of technical documentation created as part of my transition into IT technical writing.
 
-The goal of this project is to demonstrate my ability to create clear, structured, and user-friendly API documentation.
+The portfolio demonstrates my ability to create clear, structured, and user-friendly documentation for both developers and end users.
 
 ---
 
-## Project Description
+## About Me
 
-The Book Review Service is a simple application that allows users to:
+Technical writer with experience in engineering documentation, including development of technical and operational documentation.
 
-- view books  
-- filter books by different parameters  
-- create reviews for books  
+Currently transitioning into IT and focusing on:
 
-This project focuses on documenting how clients interact with the system via REST API.
+- API documentation  
+- User guides  
+- Developer-oriented documentation  
 
 ---
 
 ## Documentation
 
-### Book Review Service API
+### Book Review Service
 
-REST API documentation for working with books and reviews.
+A sample application that allows users to browse books and create reviews.
+
+#### API Documentation  
+REST API documentation describing how to interact with the system.
 
 Includes:
-
 - endpoint descriptions  
 - request and response examples  
-- path and query parameters  
-- request body structure  
+- parameters and request body  
 - error handling  
 
-File: `book-review-api.md`
+File: book-review-api.md
+
+---
+
+#### User Guide  
+End-user documentation explaining how to use the application.
+
+Includes:
+- step-by-step instructions  
+- feature descriptions  
+- common issues  
+
+File: book-review-user-guide.md
 
 ---
 
@@ -48,7 +57,7 @@ File: `book-review-api.md`
 - Markdown  
 - Structuring technical information  
 - Understanding of client-server interaction  
-- Writing for developer audience  
+- Writing for different audiences (developers and end users)  
 
 ---
 
@@ -59,27 +68,25 @@ File: `book-review-api.md`
 
 ---
 
-## Purpose
+## Approach
 
-This project was created as part of my transition into IT technical writing.
+In my documentation, I focus on:
 
-It demonstrates my ability to:
-
-- understand API logic  
-- describe endpoints clearly  
-- provide useful examples for developers  
+- clarity and simplicity  
+- logical structure  
+- practical examples  
+- consistency of style  
 
 ---
 
 ## Future Improvements
 
-- Add more endpoints (update and delete operations)  
-- Expand error handling scenarios  
-- Improve response field descriptions  
-- Add diagrams for better visualization  
+- Add more complex API scenarios  
+- Extend documentation with additional endpoints  
+- Include diagrams for better visualization  
 
 ---
 
-## Author
+## Contact
 
-Technical writer with experience in engineering documentation, currently transitioning into IT and focusing on API and product documentation.
+GitHub: https://github.com/markut-tech-writer
