@@ -39,7 +39,7 @@ GET /api/v1/books/15 HTTP/1.1
 Host: api.bookreviews.local
 Authorization: Bearer <token>
 
-### Successful Response
+Successful Response
 
 Status: 200 OK
 
@@ -52,7 +52,7 @@ Status: 200 OK
   "published_year": 2008
 }
 
-### Error Responses
+Error Responses
 
 401 Unauthorized
 
