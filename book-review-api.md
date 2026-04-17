@@ -39,6 +39,7 @@ GET /api/v1/books/15 HTTP/1.1
 Host: api.bookreviews.local
 Authorization: Bearer <token>
 
+
 Successful Response
 
 Status: 200 OK
