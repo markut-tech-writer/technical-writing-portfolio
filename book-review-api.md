@@ -38,7 +38,7 @@ This endpoint can be used to display book details in the application interface.
 GET /api/v1/books/15 HTTP/1.1
 Host: api.bookreviews.local
 Authorization: Bearer <token>
-
+’’’
 
 ### Successful Response
 
